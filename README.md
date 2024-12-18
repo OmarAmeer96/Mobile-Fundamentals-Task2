@@ -66,4 +66,4 @@ NumberType getNumberType(int number) {
 
 1. Copy the code into a Dart file.
 2. Run the Dart file using a Dart compiler or an IDE that supports Dart.
-3. The output will display the total price of the grocery items and the total price after adding the tax.
+3. The output will display the numbers categorized as even or odd.
