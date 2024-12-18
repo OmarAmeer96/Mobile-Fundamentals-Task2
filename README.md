@@ -60,6 +60,8 @@ NumberType getNumberType(int number) {
 
 ## Code Output Screenshot
 
+![code-output](./code-output.png)
+
 ## How to Run
 
 1. Copy the code into a Dart file.
